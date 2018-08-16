@@ -1,16 +1,32 @@
 <template>
   <div class="content">
-    <hero/>
+    <hero>
+      <a class="scroller" v-scroll-to="'#committee'">
+        <i class="material-icons">keyboard_arrow_down</i>
+      </a>
+    </hero>
+    <team id="committee"/>
+    <contact/>
+
+    <footer>
+      <p>
+        Coded in {{ new Date().getFullYear() }} with lots of <i class="material-icons">favorite</i> by the <a href="https://github.com/hacksurrey/hacksurrey">@hacksurrey</a> team
+      </p>
+    </footer>
   </div>
 </template>
 
 <script>
 import Hero from '../components/Hero.vue'
+import Team from '../components/Team.vue'
+import Contact from '../components/Contact.vue'
 
 export default {
   name: 'app',
   components: {
-    hero: Hero
+    hero: Hero,
+    team: Team,
+    contact: Contact
   }
 }
 </script>

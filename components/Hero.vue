@@ -4,6 +4,7 @@
       <img src="~resources/logo.svg" />
     </header>
 
+    <slot/>
     <vue-particles class="background" color="#FF3232" :particleOpacity="0.75" :particlesNumber="125" shapeType="circle" :particleSize="2"
     linesColor="#FF3232" :linesWidth="0.55" :lineLinked="true" :lineOpacity="0.75" :linesDistance="75"
     :moveSpeed="3" :hoverEffect="false" :clickEffect="false" />
