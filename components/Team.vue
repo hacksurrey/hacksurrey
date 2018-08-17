@@ -4,11 +4,11 @@
       <h1>Committee.</h1>
     </div>
     <div class="item">
-      <img src="~resources/avatars/dan.jpg" />
+      <img src="https://avatars2.githubusercontent.com/u/4354770?s=460&v=4" />
       <span class="subtitle">Dan<br/><span class="subsubtitle">President</span></span>
     </div>
     <div class="item">
-      <img src="~resources/avatars/ted.jpg" />
+      <img src="https://avatars1.githubusercontent.com/u/7229472?s=460&v=4" />
       <span class="subtitle">Ted<br/><span class="subsubtitle">Vice President</span></span>
     </div>
     <div class="item">
