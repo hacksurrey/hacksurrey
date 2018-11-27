@@ -5,6 +5,8 @@
         <i class="material-icons">keyboard_arrow_down</i>
       </a>
     </hero>
+    <about/>
+    <events/>
     <team id="committee"/>
     <contact/>
 
@@ -18,6 +20,8 @@
 
 <script>
 import Hero from '../components/Hero.vue'
+import About from '../components/About.vue'
+import Events from '../components/Events.vue'
 import Team from '../components/Team.vue'
 import Contact from '../components/Contact.vue'
 
@@ -25,6 +29,8 @@ export default {
   name: 'app',
   components: {
     hero: Hero,
+    about: About,
+    events: Events,
     team: Team,
     contact: Contact
   }
