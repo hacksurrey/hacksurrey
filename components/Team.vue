@@ -32,7 +32,8 @@ export default {
 <style lang="sass" scoped>
 section
   display: flex
-  padding: 1.5em 12em
+  min-width: 96%
+  padding: 1.5em 4em
   flex-direction: row
   flex-wrap: wrap
   justify-content: center
@@ -41,6 +42,7 @@ section
   padding: .5em 1.5em
   margin: .5em .75em
   display: flex
+  flex-wrap: wrap;
   flex: 1 1 auto
   h1
     padding: 0

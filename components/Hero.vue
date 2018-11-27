@@ -44,7 +44,7 @@ h1
 img
   width: 42vw
   max-height: 20vh
-  min-width: 400px
+  min-width: 340px
   max-width: 850px
 </style>
 
