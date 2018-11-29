@@ -20,6 +20,10 @@
         <img src="https://avatars1.githubusercontent.com/u/45294765?s=400&v=4" />
         <span class="subtitle">Alex<br/><span class="subsubtitle">Committee</span></span>
       </div>
+      <div class="item">
+        <img src="https://avatars2.githubusercontent.com/u/45466951?s=460&v=4" />
+        <span class="subtitle">Samantha<br/><span class="subsubtitle">Committee</span></span>
+      </div>
     </div>
   </section>
 </template>
