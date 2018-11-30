@@ -24,6 +24,10 @@
         <img src="https://avatars2.githubusercontent.com/u/45466951?s=460&v=4" />
         <span class="subtitle">Samantha<br/><span class="subsubtitle">Committee</span></span>
       </div>
+      <div class="item">
+        <img src="https://avatars2.githubusercontent.com/u/33288730?s=400&v=4" />
+        <span class="subtitle">Kevin<br/><span class="subsubtitle">Committee</span></span>
+      </div>
     </div>
   </section>
 </template>
