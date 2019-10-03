@@ -7,25 +7,31 @@
       <div class="item">
         <img src="~resources/avatars/aleks.jpg" />
         <span class="subtitle"><a href="https://www.linkedin.com/in/aleksandra-marevskaia-26a097176/" title="Aleksandra Marevskaia">Aleks</a><br/><span class="subsubtitle">President</span>
-        <p class="desc">I am a 2nd Year Computer Science student, and as the President I aiming to develop a conducive atmosphere within the society, as well as managing the day-to-day running of the society.</p>
+        <p class="desc" style="height: 110px">I am a 2nd Year Computer Science student, and as the President I aiming to develop a conducive atmosphere within the society, as well as managing the day-to-day running of the society.</p>
         </span>
       </div>
       <div class="item">
         <img src="~resources/avatars/ankur.jpg" />
         <span class="subtitle"><a href="https://www.linkedin.com/in/ankur-mahto-238916127" title="Ankur Mahto">Ankur</a><br/><span class="subsubtitle">Vice President</span>
-        <p class="desc">I am a 2nd Year Computer Science student, and as the Vice-President I am involved in running the society steadily, as well as assisting the president in organising engaging events for the members!</p>
+        <p class="desc" style="height: 110px">I am a 2nd Year Computer Science student, and as the Vice-President I am involved in running the society steadily, as well as assisting the president in organising engaging events for the members!</p>
         </span>
       </div>
       <div class="item">
         <img src="~resources/avatars/uliks.jpg" />
         <span class="subtitle"><a href="https://www.linkedin.com/in/uliks-sekiraqa-438276149/" title="Uliks Seqiraqa">Uliks</a><br/><span class="subsubtitle">Treasurer</span>
-        <p class="desc">I'm  a 2nd Year Computer Science student, and as Treasurer I am in charge of managing the funds from our budget and sponsorships in order to host the fun events we have planned this year.</p>
+        <p class="desc" style="height: 110px">I'm  a 2nd Year Computer Science student, and as Treasurer I am in charge of managing the funds from our budget and sponsorships in order to host the fun events we have planned this year.</p>
         </span>
       </div>
       <div class="item">
         <img src="~resources/avatars/rafail.jpg" />
         <span class="subtitle"><a href="https://www.linkedin.com/in/rafail-giavrimis/" title="Rafail Giavrimis">Rafail</a><br/><span class="subsubtitle">Committee</span>
-        <p class="desc">I'm a 2nd Year Computer Science student and as a Technical Expert I'm in charge of helping manage the technical infrastructure, social channels of HackSurrey and assisting in managing the website.<br/></p>
+        <p class="desc" style="height: 110px">I'm a 2nd Year Computer Science student and as a Technical Expert I'm in charge of helping manage the technical infrastructure, social channels of HackSurrey and assisting in managing the website.<br/></p>
+        </span>
+      </div>
+      <div class="item">
+        <img src="~resources/avatars/dom.jpg" />
+        <span class="subtitle"><a title="Dominic Adams">Dominic</a><br/><span class="subsubtitle">Committee</span>
+        <p class="desc" style="height: 110px">I'm a 2nd Year Computer Science student and the Wellbeing and Inclusion Champion of HackSurrey.<br/></p>
         </span>
       </div>
     </div>
