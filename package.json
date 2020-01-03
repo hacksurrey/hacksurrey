@@ -5,7 +5,9 @@
     "build": "cross-env NODE_ENV=production webpack --progress --hide-modules"
   },
   "dependencies": {
+    "ajv": "^6.10.2",
     "animate.css": "^3.7.0",
+    "node-sass": "^4.13.0",
     "normalize.css": "^7.0.0",
     "vue": "^2.5.17",
     "vue-particles": "^1.0.9",
@@ -22,9 +24,8 @@
     "cross-env": "^5.2.0",
     "css-loader": "^0.28.11",
     "file-loader": "^1.1.11",
-    "image-webpack-loader": "^4.5.0",
+    "image-webpack-loader": "^4.6.0",
     "img-loader": "^2.0.1",
-    "node-sass": "^4.10.0",
     "postcss-loader": "^2.1.6",
     "sass-loader": "^6.0.7",
     "svg-url-loader": "^2.3.2",
