@@ -16,7 +16,7 @@
       <a href="https://github.com/hacksurrey"><i class="fa fa-github-square fa-2x" aria-hidden="true"></i></a>
     </div>
     <div class="item">
-      <a href="mailto:contact@hacksurrey.uk"><i class="fa fa-envelope-square fa-2x" aria-hidden="true"></i></a>
+      <a href="mailto:ussu.hacksurrey@surrey.ac.uk"><i class="fa fa-envelope-square fa-2x" aria-hidden="true"></i></a>
     </div>
   </section>
 </template>
