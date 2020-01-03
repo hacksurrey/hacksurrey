@@ -19,10 +19,14 @@ export default {
   data() {
     return {
         events: [
+		  {title: 'HackSurrey v3.0',
+           date: '22nd-23rd February 2020',
+           description: 'Our third hackathon at the University of Surrey: 150 students, 24 hours, what will <b>you</b> build?',
+           website: 'https://hacksurrey.github.io/v3.0/'},
           {title: 'HackSurrey Mk2',
            date: '9-10th February 2019',
            description: 'Our second hackathon at the University of Surrey: 150 students, 24 hours, what will <b>you</b> build?',
-           website: 'https://mk2.hacksurrey.uk'},
+           website: 'https://hacksurrey.github.io/mk2/'},
           {title: 'HackSurrey Beta',
            date: '5-6th May 2018',
            description: 'Our first 24 hour hackathon at the University of Surrey! 🎉',
