@@ -7,19 +7,19 @@
       <div class="item">
         <img src="~resources/avatars/rafail.jpg" />
         <span class="subtitle"><a href="https://www.linkedin.com/in/rafail-giavrimis/" title="Rafail Giavrimis">Rafail</a><br/><span class="subsubtitle">President</span>
-        <p class="desc" style="height: 110px">I am a 3nd Year Computer Science student, and as the President I aiming to develop a conducive atmosphere within the society, as well as managing the day-to-day running of the society.</p>
+        <p class="desc" style="height: 110px">I am a 3rd Year Computer Science student, and as the President I aiming to develop a conducive atmosphere within the society, as well as managing the day-to-day running of the society.</p>
         </span>
       </div>
       <div class="item">
         <img src="~resources/avatars/aleks.jpg" />
         <span class="subtitle"><a href="https://www.linkedin.com/in/aleksandra-marevskaia-26a097176/" title="Aleksandra Marevskaia">Aleks</a><br/><span class="subsubtitle">Vice President</span>
-        <p class="desc" style="height: 110px">I am a 3nd Year Computer Science student, and as the Vice-President I am involved in running the society steadily, as well as assisting the president in organising engaging events for the members!</p>
+        <p class="desc" style="height: 110px">I am a 3rd Year Computer Science student, and as the Vice-President I am involved in running the society steadily, as well as assisting the president in organising engaging events for the members!</p>
         </span>
       </div>
       <div class="item">
         <img src="~resources/avatars/josh.jpg" />
         <span class="subtitle"><a href="https://www.linkedin.com/in/joshasday/" title="Josh Day">Josh</a><br/><span class="subsubtitle">Treasurer</span>
-        <p class="desc" style="height: 110px">I'm  a 3nd Year Computer Science student, and as Treasurer I am in charge of managing the funds from our budget and sponsorships in order to host the fun events we have planned this year.</p>
+        <p class="desc" style="height: 110px">I'm  a 3rd Year Computer Science student, and as Treasurer I am in charge of managing the funds from our budget and sponsorships in order to host the fun events we have planned this year.</p>
         </span>
       </div>
     </div>
